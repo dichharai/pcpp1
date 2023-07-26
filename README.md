@@ -1,4 +1,5 @@
 # Certified Professional in Python Programming 1 Exercises
+<img src="gui-images/pcpp-logo.png" heigh=75 width=75>
 
 ## Motivation
 
@@ -18,9 +19,9 @@ Command to run the programs:
 Here are the screen shots of the GUI programs: 
 
 1. simple calculator<br>
-<img src="gui-images/simple-calculator.png" alt="calculator with basic operation" height=100 width=250/>
+<img src="gui-images/simple-calculator.png" alt="calculator with basic operation" height=150 width=400/>
 2. catch me<br>
-<img src="gui-images/catch-me.png" alt="move hover game to catch a button" height=200 width=200/>
+<img src="gui-images/catch-me.png" alt="move hover game to catch a button" height=400 width=400/>
 3. clicker<br>
 <img src="gui-images/clicker.png" alt="grid to checkout numbers in ascending order" height=200 widht=400/>
 4. Traffic lights<br>
