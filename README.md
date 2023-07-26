@@ -3,7 +3,7 @@
 
 ## Motivation
 
-Took the certification as I was curious what a professional certification questions and exams looks like. Used 25 days to prepare for the certification, gave exam and got <a href="file:///Users/dichha/Downloads/certificate_LQUf.ExTF.Bd5D.pdf">certified</a>. 
+Took the certification as I was curious what a professional certification questions and exams looks like. Used 25 days to prepare for the certification, gave exam and got <a href="https://drive.google.com/file/d/1wxfUSOIzh91y7ICu_3BfstCBrEvxEH2G/view?usp=sharing">certified</a>. 
 
 This is a medium article on what I felt about it if you too are testing the water. 
 
@@ -15,6 +15,8 @@ The exercises are based on topics covered in the course.
 Command to run the programs:
 
 `python <exercise-name>.py` 
+
+## GUI's looks
 
 Here are the screen shots of the GUI programs: 
 
@@ -31,6 +33,7 @@ Here are the screen shots of the GUI programs:
 6. full calculator<br>
 <img src="gui-images/calculator.png" alt="full functional calculator" height=250 width=250/>
 
+## Two Cents
 That's it! I hope this repository will be helpful! 
 
 Happy coding!
