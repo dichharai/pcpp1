@@ -1,4 +1,4 @@
-# Certified Professional in Python Programming 1 Exercises
+# Certified Professional in Python Programming 1 (PCPP1) 's Exercises
 <img src="gui-images/pcpp-logo.png" heigh=110 width=110>
 
 ## Motivation
@@ -11,7 +11,8 @@ This is a medium article on what I felt about it if you too are testing the wate
 At the end of completing this course, I felt like I time travelled back to the freshman and sophomore year of my college. Especially the GUI applications!, both tkinter and in college used `c++` too! <b>Yatzee game</b> is still fresh. 
 
 ## Directory Structure
-The exercises are based on topics covered in the course. 
+The exercises are based on topics covered in the course.
+
 Command to run the programs:
 
 `python <exercise-name>.py` 
