@@ -35,6 +35,6 @@ Here are the screen shots of the GUI programs:
 <img src="gui-images/calculator.png" alt="full functional calculator" height=250 width=250/>
 
 ## Two Cents
-That's it! I hope this repository will be helpful! 
+That's it! I hope this repository will be helpful for those who need help with the exercises! 
 
 Happy coding!
