@@ -1,5 +1,5 @@
 # Certified Professional in Python Programming 1 Exercises
-<img src="gui-images/pcpp-logo.png" heigh=75 width=75>
+<img src="gui-images/pcpp-logo.png" heigh=110 width=110>
 
 ## Motivation
 
