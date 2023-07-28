@@ -8,10 +8,10 @@ Took the certification as I was curious what a professional certification questi
 <a href="https://dkhambu.medium.com/pcpp1-python-professional-certification-exam-e8f0d90ff903">This</a> is a medium article on what I felt about it if you too are testing the water. 
 
 ## Outcome
-At the end of completing this course, I felt like I time travelled back to the freshman and sophomore year of my college. Especially the GUI applications!, both tkinter and in college used `c++` too! <b>Yatzee game</b> is still fresh. 
+At the end of completing this course, I felt like I time travelled back to the freshman and sophomore year of my college. Especially the GUI applications!, both tkinter and in college used `c++` too! <b>Yahtzee game</b> is still fresh. 
 
 ## Directory Structure
-The exercises are based on topics covered in the course.
+The exercises are based on topics covered in the <a href="https://edube.org/">course</a>.
 
 Command to run the programs:
 
