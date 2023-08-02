@@ -3,7 +3,7 @@
 
 ## Motivation
 
-Took the certification as I was curious what a professional certification questions and exams looks like. Used 25 days to prepare for the certification, gave exam and got <a href="https://drive.google.com/file/d/1wxfUSOIzh91y7ICu_3BfstCBrEvxEH2G/view?usp=sharing">certified</a>. 
+Took the certification as I was curious what a professional certification questions and exams looks like. Used 25 days to prepare for the certification, gave exam and got <a href="https://www.credly.com/badges/ede31d27-3a19-420e-ab4e-8bb6b27ba9e4">certified</a>. 
 
 <a href="https://dkhambu.medium.com/pcpp1-python-professional-certification-exam-e8f0d90ff903">This</a> is a medium article on what I felt about it if you too are testing the water. 
 
